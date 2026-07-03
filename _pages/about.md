@@ -25,7 +25,7 @@ latest_posts:
   
 ---
 
-Hi, I am Haoming Zhang. A PhD student in the Goto Lab, Waseda University. My research interests include graph neural networks, knowledge graphs, information retrieval, and multimodal machine learning. I am particularly interested in developing graph-based models that combine textual, structural, and domain-aware information for anomaly detection and risk assessment. Before starting a PhD at Waseda University, I finished my undergraduate degree at the University of Manchester and my master's degree at the University of Birmingham.
+Hi, I am Haoming Zhang. A PhD student in the Goto Lab, Waseda University. My research interests include graph neural networks, knowledge graphs, information retrieval, and multimodal machine learning. I am particularly interested in developing graph-based models that combine textual, structural, and domain-aware information for anomaly detection and risk assessment. Before commencing my PhD at Waseda University, I completed my undergraduate degree at the University of Manchester and my master's degree at the University of Birmingham.
 
 My research topics include:
 
