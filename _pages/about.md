@@ -9,7 +9,7 @@ profile:
   image: elaina_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Tokyo, Japan</p>
+    <p><strong>Per aspera ad astra</strong></p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
