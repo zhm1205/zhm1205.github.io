@@ -27,8 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Haoming Zhang. A PhD student in the Goto Lab, Waseda University. My research interests include graph neural networks, knowledge graphs, information retrieval, and multimodal machine learning. I am particularly interested in developing graph-based models that combine textual, structural, and domain-aware information for anomaly detection and risk assessment. Before starting a PhD at Waseda University, I finished my undergraduate at the University of Manchester, and my master's degree at the University of Birmingham.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research topics include:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- Graph Neural Networks
+- Knowledge Graphs
+- Multimodal Machine Learning
+- Information Retrieval
+- Large Language Model
+- Agent-based Simulations
